@@ -1,0 +1,20 @@
+[
+    {
+        "app_id": "io.snapcraft.telemetrytv-jepqu0lImxnC2Q7s9ZOrACD8ESEKFvvJ",
+        "date_created": 1597987003.0,
+        "description": "I can't open it.I tried many times.",
+        "distro": "Ubuntu",
+        "karma_down": 0,
+        "karma_up": 0,
+        "locale": "en_US",
+        "rating": 40,
+        "reported": 0,
+        "review_id": 261379,
+        "score": 0,
+        "summary": "It won't open",
+        "user_display": null,
+        "user_hash": "cd9cba51f22fe64ee7260516588ac6d5c7ee8aa1",
+        "user_skey": "05144b8627eaa1fd9417d1078780e08630d28503",
+        "version": "3.8.3"
+    }
+]

@@ -1,0 +1,5 @@
+{"timestamp":44209,"category":"nimbus_events","name":"validation_failed","extra":{"branch":"control","reason":"invalid-branch","experiment":"import-spotlight-and-eco-group-reach-experiment"}}
+{"timestamp":44209,"category":"nimbus_events","name":"validation_failed","extra":{"experiment":"import-spotlight-and-eco-group-reach-experiment","reason":"invalid-branch","branch":"treatment-a"}}
+{"timestamp":44209,"category":"nimbus_events","name":"validation_failed","extra":{"experiment":"import-spotlight-and-eco-group-reach-experiment","branch":"treatment-b","reason":"invalid-branch"}}
+{"timestamp":44209,"category":"nimbus_events","name":"validation_failed","extra":{"branch":"treatment-c","reason":"invalid-branch","experiment":"import-spotlight-and-eco-group-reach-experiment"}}
+{"timestamp":44209,"category":"nimbus_events","name":"validation_failed","extra":{"experiment":"import-infrequent-rollout-make-yourself-at-home","feature":"fxms-message-1","reason":"invalid-feature"}}
