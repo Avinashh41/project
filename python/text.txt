@@ -1,1 +1,32 @@
-comment
+a = 10
+b = 5
+if a>b:
+    print ("a is greater than b")
+else:
+    print ("a is not greater than b")
+
+b = 250
+c = 300
+a = int(input())
+if b>c:
+    print ("b is greater than c")
+else:
+    print ("b is not greater than c")
+
+print(bool("hello"))
+
+# fuctions can return a boolean
+def fuc():
+    return False
+print(fuc())
+
+def fuc():
+    return True
+if fuc():
+    print("Yes")
+else:
+    print("No")
+
+
+
+

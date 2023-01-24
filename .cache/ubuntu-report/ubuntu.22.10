@@ -1,0 +1,74 @@
+{
+  "Version": "22.10",
+  "OEM": {
+    "Vendor": "ASUSTeK COMPUTER INC.",
+    "Product": "TUF GAMING FX504GD_FX80GD",
+    "Family": "TUF GAMING"
+  },
+  "BIOS": {
+    "Vendor": "American Megatrends Inc.",
+    "Version": "FX504GD.322"
+  },
+  "Arch": "amd64",
+  "HwCap": "x86-64-v3",
+  "GPU": [
+    {
+      "Vendor": "8086",
+      "Model": "3e9b"
+    }
+  ],
+  "RAM": 16.2,
+  "Disks": [
+    1000.2
+  ],
+  "Partitions": [
+    241.5,
+    0.5
+  ],
+  "Screens": [
+    {
+      "Size": "344mmx193mm",
+      "Resolution": "1920x1080",
+      "Frequency": "60.05"
+    }
+  ],
+  "Autologin": false,
+  "LivePatch": false,
+  "Session": {
+    "DE": "ubuntu:GNOME",
+    "Name": "ubuntu",
+    "Type": "x11"
+  },
+  "Language": "en_IN",
+  "Timezone": "Asia/Kolkata",
+  "Install": {
+    "Media": "Ubuntu 22.10 \"Kinetic Kudu\" - Release amd64 (20221020)",
+    "Type": "GTK",
+    "OEM": false,
+    "PartitionMethod": "manual",
+    "DownloadUpdates": false,
+    "Language": "en",
+    "Minimal": false,
+    "RestrictedAddons": true,
+    "Stages": {
+      "0": "language",
+      "9": "console_setup",
+      "41": "console_setup",
+      "43": "wireless",
+      "91": "console_setup",
+      "99": "wireless",
+      "109": "prepare",
+      "144": "partman",
+      "159": "partman",
+      "161": "partman",
+      "183": "partman",
+      "185": "partman",
+      "189": "partman",
+      "193": "start_install",
+      "194": "timezone",
+      "220": "usersetup",
+      "271": "user_done",
+      "508": "done"
+    }
+  }
+}

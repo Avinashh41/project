@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/tech41/Downloads/florian-olivo-JNz9bQD3Oio-unsplash.jpg" added="2023-01-23T10:20:15.651220Z" modified="2023-01-23T10:20:37.711686Z" visited="2023-01-23T10:20:15.651221Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-01-23T10:20:37.711684Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tech41/Downloads/42.webp" added="2023-01-23T10:24:36.576803Z" modified="2023-01-23T11:58:29.567005Z" visited="2023-01-23T10:24:36.576805Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/webp"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2023-01-23T10:24:36.576807Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2023-01-23T10:24:36.826696Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;eog %U&apos;" modified="2023-01-23T11:58:29.131990Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-01-23T11:58:29.567003Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tech41/Downloads/43.webp" added="2023-01-23T10:25:07.746664Z" modified="2023-01-23T10:25:07.996722Z" visited="2023-01-23T10:25:07.746665Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2023-01-23T10:25:07.746668Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2023-01-23T10:25:07.996715Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tech41/Downloads/46.webp" added="2023-01-23T10:25:44.860467Z" modified="2023-01-23T11:58:37.490890Z" visited="2023-01-23T10:25:44.860468Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/webp"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2023-01-23T10:25:44.860472Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2023-01-23T10:25:45.109609Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;eog %U&apos;" modified="2023-01-23T11:58:37.114712Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-01-23T11:58:37.490889Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tech41/Downloads/developer-responsebilities.png" added="2023-01-23T10:28:21.645930Z" modified="2023-01-23T10:28:21.895718Z" visited="2023-01-23T10:28:21.645932Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2023-01-23T10:28:21.645935Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2023-01-23T10:28:21.895713Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tech41/Downloads/git-cheat-sheet.pdf" added="2023-01-23T11:54:52.128553Z" modified="2023-01-23T11:58:44.341030Z" visited="2023-01-23T11:54:52.128554Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2023-01-23T11:54:52.128556Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2023-01-23T11:54:52.378194Z" count="1"/>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-01-23T11:58:44.341027Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tech41/Downloads/_Git%20cheat%20sheet%20dark%20(FINAL).webp" added="2023-01-23T11:55:53.690634Z" modified="2023-01-23T11:58:22.519070Z" visited="2023-01-23T11:55:53.690635Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/webp"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2023-01-23T11:55:53.690639Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2023-01-23T11:55:53.940348Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;eog %U&apos;" modified="2023-01-23T11:58:22.038817Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-01-23T11:58:22.519068Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tech41/Downloads/Git-Cheat-Sheet.pdf" added="2023-01-23T11:58:04.162826Z" modified="2023-01-23T12:00:31.005856Z" visited="2023-01-23T11:58:04.162828Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2023-01-23T11:58:04.162831Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2023-01-23T11:58:04.413714Z" count="1"/>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-01-23T12:00:31.005853Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/tech41/2426BD7D26BD5112/Users/tech4/Downloads/karthik-swarnkar-AoNvwL-Dmtw-unsplash.jpg" added="2023-01-23T15:28:37.339373Z" modified="2023-01-24T12:04:08.891457Z" visited="2023-01-23T15:28:37.339374Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;eog %U&apos;" modified="2023-01-23T15:28:37.339377Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-01-24T12:04:08.891453Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/tech41/2426BD7D26BD5112/Users/tech4/Downloads/mohammad-rahmani-LrxSl4ZxoRs-unsplash.jpg" added="2023-01-23T15:28:50.123586Z" modified="2023-01-24T12:03:28.708039Z" visited="2023-01-23T15:28:50.123587Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-01-24T12:03:28.708038Z" count="2"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;eog %U&apos;" modified="2023-01-24T12:03:27.013964Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/tech41/2426BD7D26BD5112/Users/tech4/Downloads/pankaj-patel-u2Ru4QBXA5Q-unsplash.jpg" added="2023-01-23T15:28:52.231882Z" modified="2023-01-24T12:03:43.084945Z" visited="2023-01-23T15:28:52.231883Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-01-24T12:03:43.084944Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/tech41/2426BD7D26BD5112/Users/tech4/Downloads/quinton-coetzee-xcweYgakbRo-unsplash.jpg" added="2023-01-23T15:28:53.749061Z" modified="2023-01-24T12:03:45.684554Z" visited="2023-01-23T15:28:53.749062Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-01-24T12:03:45.684552Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/tech41/2426BD7D26BD5112/Users/tech4/Downloads/shahadat-rahman-BfrQnKBulYQ-unsplash.jpg" added="2023-01-23T15:28:55.888302Z" modified="2023-01-24T12:04:14.141082Z" visited="2023-01-23T15:28:55.888303Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-01-24T12:04:14.141080Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/tech41/2426BD7D26BD5112/Users/tech4/Downloads/thomas-tastet-hSODeSbvzE0-unsplash.jpg" added="2023-01-23T15:28:57.779895Z" modified="2023-01-24T12:04:12.662807Z" visited="2023-01-23T15:28:57.779896Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-01-24T12:04:12.662805Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/tech41/New%20Volume/module1.py" added="2023-01-24T07:40:34.553318Z" modified="2023-01-24T07:40:34.553328Z" visited="2023-01-24T07:40:34.553319Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2023-01-24T07:40:34.553322Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tech41/Pictures/Screenshots/Screenshot%20from%202023-01-24%2013-17-36.png" added="2023-01-24T07:47:36.348432Z" modified="2023-01-24T07:47:36.348438Z" visited="2023-01-24T07:47:36.348433Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-01-24T07:47:36.348435Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/tech41/New%20Volume/growth-mindset.pdf" added="2023-01-24T07:49:52.350728Z" modified="2023-01-24T07:49:52.350734Z" visited="2023-01-24T07:49:52.350729Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-01-24T07:49:52.350731Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/tech41/New%20Volume/Python%20Exercises%20(%20PDFDrive%20).pdf" added="2023-01-24T07:50:03.209290Z" modified="2023-01-24T07:50:03.209293Z" visited="2023-01-24T07:50:03.209290Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-01-24T07:50:03.209291Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/tech41/New%20Volume/toaz.info-python-3-400-exercises-and-solutions-for-beginners-by-assad-patel-pdf-pr_b581c41881bbc991003ec0f0165cdb46.pdf" added="2023-01-24T07:50:17.210136Z" modified="2023-01-24T07:50:17.210143Z" visited="2023-01-24T07:50:17.210137Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-01-24T07:50:17.210140Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tech41/python/README.md" added="2023-01-24T07:58:40.413120Z" modified="2023-01-24T07:58:40.413144Z" visited="2023-01-24T07:58:40.413124Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2023-01-24T07:58:40.413132Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tech41/python/text.txt" added="2023-01-24T08:04:25.531427Z" modified="2023-01-24T08:04:25.531445Z" visited="2023-01-24T08:04:25.531429Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2023-01-24T08:04:25.531436Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/tech41/Pictures/Screenshots/Screenshot%20from%202023-01-24%2013-45-47.png" added="2023-01-24T08:15:47.240950Z" modified="2023-01-24T08:15:47.240953Z" visited="2023-01-24T08:15:47.240950Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-01-24T08:15:47.240951Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

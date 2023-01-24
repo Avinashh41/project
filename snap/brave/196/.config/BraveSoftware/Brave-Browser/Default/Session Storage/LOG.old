@@ -1,3 +1,6 @@
-2023/01/23-20:53:18.757 5 Reusing MANIFEST /home/tech41/snap/brave/196/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
-2023/01/23-20:53:18.759 5 Recovering log #3
-2023/01/23-20:53:18.761 5 Reusing old log /home/tech41/snap/brave/196/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000003.log 
+2023/01/24-17:34:27.219 5 Reusing MANIFEST /home/tech41/snap/brave/196/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
+2023/01/24-17:34:27.220 5 Recovering log #3
+2023/01/24-17:34:27.222 5 Reusing old log /home/tech41/snap/brave/196/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000003.log 
+2023/01/24-17:34:31.380 3 Level-0 table #5: started
+2023/01/24-17:34:31.386 3 Level-0 table #5: 15696 bytes OK
+2023/01/24-17:34:31.391 3 Delete type=0 #3

@@ -1,23 +1,39 @@
-2023/01/24-12:38:21.984 d78 Reusing MANIFEST /home/tech41/snap/brave/196/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/01/24-12:38:21.985 d78 Recovering log #18
-2023/01/24-12:38:21.999 d78 Reusing old log /home/tech41/snap/brave/196/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000018.log 
-2023/01/24-12:38:21.999 d78 Delete type=2 #17
-2023/01/24-12:38:24.061 10da Level-0 table #23: started
-2023/01/24-12:38:24.073 10da Level-0 table #23: 969963 bytes OK
-2023/01/24-12:38:24.075 10da Delete type=0 #18
-2023/01/24-12:38:24.076 10da Manual compaction at level-0 from '\x00\x11\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x12\x00\x00\x00' @ 0 : 0; will stop at (end)
-2023/01/24-12:38:26.837 10e5 Compacting 1@1 + 1@2 files
-2023/01/24-12:38:26.845 10e5 Generated table #24@1: 344 keys, 34135 bytes
-2023/01/24-12:38:26.845 10e5 Compacted 1@1 + 1@2 files => 34135 bytes
-2023/01/24-12:38:26.847 10e5 compacted to: files[ 0 0 1 0 0 0 0 ]
-2023/01/24-12:38:26.848 10e5 Delete type=2 #20
-2023/01/24-12:38:26.848 10e5 Delete type=2 #23
-2023/01/24-13:03:00.585 188e Level-0 table #26: started
-2023/01/24-13:03:00.615 188e Level-0 table #26: 1146835 bytes OK
-2023/01/24-13:03:00.618 188e Delete type=0 #22
-2023/01/24-13:03:59.243 1b6b Compacting 1@1 + 1@2 files
-2023/01/24-13:03:59.249 1b6b Generated table #27@1: 388 keys, 41023 bytes
-2023/01/24-13:03:59.249 1b6b Compacted 1@1 + 1@2 files => 41023 bytes
-2023/01/24-13:03:59.250 1b6b compacted to: files[ 0 0 1 0 0 0 0 ]
-2023/01/24-13:03:59.251 1b6b Delete type=2 #26
-2023/01/24-13:03:59.251 1b6b Delete type=2 #24
+2023/01/24-17:34:49.087 fcd Reusing MANIFEST /home/tech41/snap/brave/196/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/24-17:34:49.087 fcd Recovering log #25
+2023/01/24-17:34:49.093 fcd Reusing old log /home/tech41/snap/brave/196/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000025.log 
+2023/01/24-17:36:34.780 fb4 Level-0 table #30: started
+2023/01/24-17:36:34.799 fb4 Level-0 table #30: 1072281 bytes OK
+2023/01/24-17:36:34.801 fb4 Delete type=0 #25
+2023/01/24-17:37:47.608 fd0 Compacting 1@1 + 1@2 files
+2023/01/24-17:37:47.613 fd0 Generated table #31@1: 391 keys, 40857 bytes
+2023/01/24-17:37:47.613 fd0 Compacted 1@1 + 1@2 files => 40857 bytes
+2023/01/24-17:37:47.615 fd0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/01/24-17:37:47.615 fd0 Delete type=2 #27
+2023/01/24-17:37:47.615 fd0 Delete type=2 #30
+2023/01/24-17:42:01.528 fce Level-0 table #33: started
+2023/01/24-17:42:01.540 fce Level-0 table #33: 925916 bytes OK
+2023/01/24-17:42:01.543 fce Delete type=0 #29
+2023/01/24-17:42:54.352 fce Compacting 1@1 + 1@2 files
+2023/01/24-17:42:54.357 fce Generated table #34@1: 449 keys, 47587 bytes
+2023/01/24-17:42:54.357 fce Compacted 1@1 + 1@2 files => 47587 bytes
+2023/01/24-17:42:54.358 fce compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/01/24-17:42:54.359 fce Delete type=2 #31
+2023/01/24-17:42:54.359 fce Delete type=2 #33
+2023/01/24-17:46:08.626 fcd Level-0 table #36: started
+2023/01/24-17:46:08.641 fcd Level-0 table #36: 947562 bytes OK
+2023/01/24-17:46:08.643 fcd Delete type=0 #32
+2023/01/24-17:46:53.496 fb4 Compacting 1@1 + 1@2 files
+2023/01/24-17:46:53.511 fb4 Generated table #37@1: 507 keys, 49311 bytes
+2023/01/24-17:46:53.511 fb4 Compacted 1@1 + 1@2 files => 49311 bytes
+2023/01/24-17:46:53.512 fb4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/01/24-17:46:53.513 fb4 Delete type=2 #34
+2023/01/24-17:46:53.513 fb4 Delete type=2 #36
+2023/01/24-18:05:38.273 1500 Level-0 table #39: started
+2023/01/24-18:05:38.303 1500 Level-0 table #39: 963158 bytes OK
+2023/01/24-18:05:38.306 1500 Delete type=0 #35
+2023/01/24-18:06:00.498 14fc Compacting 1@1 + 1@2 files
+2023/01/24-18:06:00.506 14fc Generated table #40@1: 569 keys, 54415 bytes
+2023/01/24-18:06:00.506 14fc Compacted 1@1 + 1@2 files => 54415 bytes
+2023/01/24-18:06:00.508 14fc compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/01/24-18:06:00.508 14fc Delete type=2 #37
+2023/01/24-18:06:00.508 14fc Delete type=2 #39

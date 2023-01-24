@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.Terminal.Preferences.desktop" score="14" last-seen="1674476096"/>
+    <application id="snap-store_ubuntu-software.desktop" score="68.5" last-seen="1674487691"/>
+    <application id="org.gnome.eog.desktop" score="8.5" last-seen="1674561856"/>
+    <application id="org.gnome.Settings.desktop" score="38347572.4375" last-seen="1674561778"/>
+    <application id="gnome-initial-setup.desktop" score="1" last-seen="1674506848"/>
+    <application id="firefox_firefox.desktop" score="222" last-seen="1674477829"/>
+    <application id="org.gnome.Terminal.desktop" score="260.875" last-seen="1674563606"/>
+    <application id="org.gnome.Nautilus.desktop" score="49" last-seen="1674563555"/>
+    <application id="xdg-desktop-portal-gnome.desktop" score="0" last-seen="1674469214"/>
+    <application id="org.gnome.Evince.desktop" score="8.5" last-seen="1674546622"/>
+    <application id="brave_brave.desktop" score="389.5" last-seen="1674563545"/>
+    <application id="org.gnome.TextEditor.desktop" score="8" last-seen="1674547560"/>
+    <application id="apport-gtk.desktop" score="0" last-seen="1674546021"/>
+  </context>
+</application-state>
